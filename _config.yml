@@ -17,7 +17,7 @@ resume: false
 #resume-url: https://google.com/?q=my+resume
 
 #url: https://koppl.in/indigo
- url: http://ferrnavarro.github.io
+url: http://ferrnavarro.github.io
 
 permalink: /:title/
 
